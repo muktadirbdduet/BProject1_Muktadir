@@ -1,0 +1,202 @@
+  * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+  }
+
+  /* Start NAV Bar */
+
+  .navbar-light .navbar-nav .nav-link.active,
+  .navbar-light .navbar-nav .show>.nav-link {
+      color: #000000;
+  }
+
+  .navbar-light .navbar-nav .nav-link {
+      color: #3E3E3E;
+  }
+
+  .navbar-light .navbar-brand {
+      color: rgba(0, 0, 0, 0.9);
+      font-weight: bold;
+  }
+
+  .navbar-light .navbar-nav .nav-link:focus,
+  .navbar-light .navbar-nav .nav-link:hover {
+      color: blue;
+  }
+
+  .book-now-btn {
+      background-color: white;
+      padding: 10px 50px;
+      color: blue;
+  }
+
+  .carousel-indicators [data-bs-target] {
+
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+  }
+
+  .precious {
+      margin-top: 100px;
+  }
+
+  /* End NAV Bar */
+
+
+  /* Start  Pakage */
+
+  .btn-light {
+      color: blue;
+  }
+
+  .btn1-package {
+      padding: 12px 70px;
+      margin-bottom: 30px;
+
+  }
+
+  .btn2-package {
+      padding: 12px 70px;
+      background-color: white;
+      margin-bottom: 20px;
+  }
+
+  .package-details {
+      line-height: 30px;
+  }
+
+  .package-col3 {
+      padding-top: 60px;
+  }
+
+  .package-col1 {
+      margin-top: 50px;
+  }
+
+  /* End  Pakage */
+
+  /* Start Review */
+  .single-client {
+      box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+      padding: 20px 40px;
+      line-height: 20px;
+  }
+
+  /* End  Review */
+
+  /* Start Footer */
+  .footer-details {
+      background-color: #0B0D17;
+      color: white;
+  }
+
+  /* End Footer */
+
+  /* For Logo Design */
+
+  .logodetails{
+      font-size: 30px;
+      font-weight:900;
+      color: blue;
+      
+  }
+
+  .logodetails1{
+    font-size: 30px;
+    font-weight:900;
+    
+}
+
+.logodetails2{
+    font-size: 20px;
+    font-weight:900;
+    color: blue;
+    padding-left: 5px;
+    
+}
+
+.logodetails3{
+    font-size: 30px;
+    font-weight:900;
+    color: black;
+    padding-right: 5px;
+    
+}
+
+  /* End Logo Design */
+
+  /* For About Page */
+    .Aboutservice{
+    font-size: 50px;
+    font-weight:900;
+    color: blue;
+    padding:20px;
+    }
+
+    .AboutPlanning{
+        font-size: 50px;   
+        font-weight:900;
+        color: blue;
+        padding:20px;
+    }
+
+    .AboutPlanning1{
+        font-size: 50px;   
+        font-weight:900;
+        color:gray;
+        padding:20px;
+    }
+  /* End About Page */
+
+  /* For Contactus Page */
+  .Contactus{
+    font-size: 50px;   
+    font-weight:900;
+    padding: 30px;
+}
+
+  .ContactPlanning{
+    font-size: 50px;   
+    font-weight:900;
+    color: blue;
+    padding-bottom: 30px;
+}
+  /* End Contact Us Page */
+
+
+
+  /* For subscribe Page */
+  .subscribe{
+    font-size: 50px;   
+    font-weight:900;
+    padding: 40px 0px;
+    color: white;
+}
+
+  .subscribe1{
+    font-size: 50px;   
+    font-weight:900;
+    color: blue;
+   padding: 40px 0px;
+}
+
+.subscribe2{
+    font-size: 30px;   
+    font-weight:900;
+    padding: 40px 0px;
+    color: white;
+}
+
+  .subscribe3{
+    font-size: 40px;   
+    font-weight:900;
+    color: blue;
+   padding: 40px 0px;
+   font-weight: bold;
+}
+  /* End Subscribe Page */
+
+  
